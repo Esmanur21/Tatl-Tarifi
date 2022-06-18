@@ -1,0 +1,40 @@
+iframe{
+    margin-left: 459px;
+    margin-top: 12px;
+}
+body{
+    background: linear-gradient(#A64B2A,#D7A86E);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+h2{
+    color: #361500;
+    text-align: center;
+background: linear-gradient(#A64B2A,#D7A86E);}
+h3{
+    color: #361500;
+    background: linear-gradient(#A64B2A,#D7A86E);
+    text-align: center;
+}
+#malzemeler{
+    background-color:#A64B2A;
+    width: 300px;
+    height: 300px;
+    padding: 12px;
+    border-radius: 34px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+#yapilis{
+    background-color: #A64B2A;
+    width: 600px;
+    border-radius: 35px;
+    padding: 25px;
+margin-left: auto;
+margin-right: auto;
+color: white;
+}
+section{
+    display: flex;
+
+}
